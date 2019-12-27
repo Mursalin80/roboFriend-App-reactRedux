@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mursalin80/roboFriend-App-reactRedux/static/css/main.6b300338.chunk.css",
+    "main.js": "/Mursalin80/roboFriend-App-reactRedux/static/js/main.357dc0bd.chunk.js",
+    "main.js.map": "/Mursalin80/roboFriend-App-reactRedux/static/js/main.357dc0bd.chunk.js.map",
+    "runtime-main.js": "/Mursalin80/roboFriend-App-reactRedux/static/js/runtime-main.f3ec7e88.js",
+    "runtime-main.js.map": "/Mursalin80/roboFriend-App-reactRedux/static/js/runtime-main.f3ec7e88.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Mursalin80/roboFriend-App-reactRedux/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ca777740.chunk.js": "/Mursalin80/roboFriend-App-reactRedux/static/js/2.ca777740.chunk.js",
+    "static/js/2.ca777740.chunk.js.map": "/Mursalin80/roboFriend-App-reactRedux/static/js/2.ca777740.chunk.js.map",
+    "index.html": "/Mursalin80/roboFriend-App-reactRedux/index.html",
+    "precache-manifest.fd81e1917e17ee3bbdf034d6ab3cc39c.js": "/Mursalin80/roboFriend-App-reactRedux/precache-manifest.fd81e1917e17ee3bbdf034d6ab3cc39c.js",
+    "service-worker.js": "/Mursalin80/roboFriend-App-reactRedux/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Mursalin80/roboFriend-App-reactRedux/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.6b300338.chunk.css.map": "/Mursalin80/roboFriend-App-reactRedux/static/css/main.6b300338.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3ec7e88.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ca777740.chunk.js",
+    "static/css/main.6b300338.chunk.css",
+    "static/js/main.357dc0bd.chunk.js"
+  ]
+}
