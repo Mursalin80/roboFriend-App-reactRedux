@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2fa8ec9e42580c707af36f7788cb55b",
+    "revision": "94e98e22391aff413fdb6e2c867cb536",
     "url": "/Mursalin80/roboFriend-App-reactRedux/index.html"
   },
   {
-    "revision": "2cd18cf3821838484a7b",
+    "revision": "f051b1bb7c8858f42eee",
     "url": "/Mursalin80/roboFriend-App-reactRedux/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "e196f8bc4530bad08579",
+    "revision": "b922ad86c0bba1722a4e",
     "url": "/Mursalin80/roboFriend-App-reactRedux/static/css/main.6b300338.chunk.css"
   },
   {
-    "revision": "2cd18cf3821838484a7b",
-    "url": "/Mursalin80/roboFriend-App-reactRedux/static/js/2.5bd88dde.chunk.js"
+    "revision": "f051b1bb7c8858f42eee",
+    "url": "/Mursalin80/roboFriend-App-reactRedux/static/js/2.ca777740.chunk.js"
   },
   {
-    "revision": "e196f8bc4530bad08579",
-    "url": "/Mursalin80/roboFriend-App-reactRedux/static/js/main.c935369a.chunk.js"
+    "revision": "b922ad86c0bba1722a4e",
+    "url": "/Mursalin80/roboFriend-App-reactRedux/static/js/main.f1583e40.chunk.js"
   },
   {
     "revision": "6fe535747d45ea12bb49",
